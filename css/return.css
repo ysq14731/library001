@@ -1,0 +1,39 @@
+.return{
+	background-color: #E6D1B6;
+}
+.inquire{
+	background-color: #9EB3BA;
+}
+
+.anniu-1{
+	width: 200px;
+	height: 60px;
+	position: absolute;
+	top: 175px;
+	left: 1080px;
+	cursor: pointer;
+}
+.anniu-2{
+	width: 200px;
+	height: 60px;
+	position: absolute;
+	top: 200px;
+	left: 1080px;
+	cursor: pointer;
+}
+.anniu-3{
+	width: 200px;
+	height: 60px;
+	position: absolute;
+	top: 225px;
+	left: 1080px;
+	cursor: pointer;
+}
+.anniu-4{
+	width: 200px;
+	height: 60px;
+	position: absolute;
+	top: 250px;
+	left: 1080px;
+	cursor: pointer;
+}
